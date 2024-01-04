@@ -4,25 +4,26 @@
 ## Description
 Explore the world of architecture with this PHP-based application integrated with SQL, managing a database of 10 renowned buildings worldwide. Dive into functionalities allowing seamless insertion, retrieval, and display of building records. Experience distinct webpages designed for various operations, from data insertion to dynamic image displays based on location and year criteria. Discover the intersection of PHP and SQL in managing and presenting famous architectural landmarks.
 
-## Screenshots
+## Link and Screenshots
+
 **lab09a.php**:
-![Famous Buildings](preview.png)
+![Famous Buildings](screenshott1.jpeg)
 Link to website: https://webdev.cs.torontomu.ca/~asipahi/lab09a.php
 
 **lab09b.php**:
-![Famous Buildings](preview.png)
+![Famous Buildings](screenshott2.jpeg)
 Link to website: https://webdev.cs.torontomu.ca/~asipahi/lab09b.php
 
 **lab09c.php**:
-![Famous Buildings](preview.png)
+![Famous Buildings](screenshott3.jpeg)
 Link to website: https://webdev.cs.torontomu.ca/~asipahi/lab09c.php
 
 **lab09d.php**:
-![Famous Buildings](preview.png)
+![Famous Buildings](screenshott4.jpeg)
 Link to website: https://webdev.cs.torontomu.ca/~asipahi/lab09d.php
 
 **lab09e.php**:
-![Famous Buildings](preview.png)
+![Famous Buildings](screenshott5.jpeg)
  Link to website: https://webdev.cs.torontomu.ca/~asipahi/lab09e.php
 
 
